@@ -1,0 +1,2 @@
+# ATM-machine-in-python
+A Python-based ATM simulation featuring balance inquiry, cash withdrawal, cash deposit, PIN change, and transaction history. The program uses modular functions for each operation and includes detailed comments for clarity.
